@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    background-color: rgb(206, 229, 229);
+    font-size: xx-large;
+    padding-left: 550px;
+}
+.maindiv{
+    background-color: rgb(197, 165, 123);
+    color: whitesmoke;
+    font-size: medium;
+    padding-left: 560px;
+}
+img{
+    padding-left: 630px;
+    image size: height: 250px; width: 250px;
+}
