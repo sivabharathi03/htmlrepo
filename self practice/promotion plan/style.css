@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+table,th,td{
+  border: 3px solid grey;
+  padding: 5px;
+  border-collapse: collapse;
+}
+.compare{
+    background-color: silver;
+}
+.starter{
+    background-color: rgb(144, 144, 132);
+}
+.advance{
+    background-color: rgb(179, 7;
+}
+.enterprise{
+    background-color: rgb(113, 169, 169);
+}
+.price1{
+color: lemonchiffon;
+font-size: larger;
+}
+.price2{
+    color: paleturquoise;
+    font-size: larger;
+    }
+    .price3{
+        color: rgb(158, 68, 98);
+        font-size: larger;
+        }
+.button{
+    background-color: rgb(181, 47, 47);
+    color: white;
+    border-radius: 20px;
+}
+.main{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+h1{
+margin-left: 250px;
+}
