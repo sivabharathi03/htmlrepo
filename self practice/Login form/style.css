@@ -1,0 +1,15 @@
+.div1{
+    display: flex;
+}
+.div3{
+    margin-left: 50px;
+}
+body{
+    background-color: rgb(113, 110, 106);
+    background-repeat:no-repeat;
+    background-size:cover;
+ }
+.img{
+    height: 360px;
+    width:400px;
+}
