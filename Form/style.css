@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.OjlXY3eh4u3dP4i1JVj7eAHaDe&pid=Api&P=0&h=220);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{background-color: yellow}
+.label{
+    background-color: white;
+}
+#name{
+    color: purple;
+}
+table{
+    background-color: yellow;
+    color: black;
+    border-color: red;
+    border-radius: 5%;
+    border-style: double;
+    padding: 20px;
+    margin: 20px;
+}
