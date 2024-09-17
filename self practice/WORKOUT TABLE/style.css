@@ -1,0 +1,50 @@
+table,th,td{
+    border-radius: 3%;
+    border: 10px darkblack;
+    background-color: rgb(169, 125, 59);
+}
+th{
+    background-color: darkgray;
+}
+td{
+    background-color: peachpuff;
+}
+.lunch{
+    background-color: bisque;
+}
+body{
+    background-color: rgb(146, 104, 110);
+}
+.tam{
+    background-color: azure;
+}
+.MATHS{
+    background-color:rgb(208, 198, 82) ;
+}
+.chem{
+    background-color: powderblue;
+}
+.SOCIALSCIENCE{
+    background-color: rgb(230, 221, 215);
+}
+.ENGLISH{
+    background-color: rgb(164, 94, 71);
+}
+.FRENCH{
+    background-color: rgb(205, 129, 129);
+}
+.ZOOLOGY{
+    background-color: darkseagreen;
+}
+.PHYSICS{
+    background-color: rgb(156, 94, 94);
+}
+.BOTANY{
+    background-color: rgb(153, 126, 117);
+}
+.COMPUTERSCIENCE{
+    background-color: rgb(110, 174, 174);
+}
+.GEOGRAPHY{
+    background-color: rgb(118, 116, 80);
+}
