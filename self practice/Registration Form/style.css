@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+}
+body{
+    background-color: rgb(207, 183, 187);
+}
+.label{
+    background-color: aliceblue;
+}
+.text{
+    background-color: blanchedalmond;
+}
