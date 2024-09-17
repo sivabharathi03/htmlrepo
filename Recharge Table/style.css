@@ -1,0 +1,16 @@
+table,th,td{
+    border-radius: 5%;
+    border:5px darkgray
+    background-color: grey;
+}
+th{
+    background-color: antiquewhite;
+}
+td{
+    background-color: palegoldenrod;
+}
+body{
+    background-color: beige;
+}
+
+
